@@ -4,6 +4,12 @@
 
 Package conduit is a helper for creating pipelines with worker pools with a rate limiter.
 
+## Installation
+
+```sh
+go get github.com/nickylogan/conduit
+```
+
 ## Example
 
 ```go
